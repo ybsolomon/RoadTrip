@@ -8,9 +8,9 @@ Minnesota or the Statue of Liberty in New York. Once implemented, your solution 
 from the starting city to the ending city in a way that visits each of the events or places of interest while
 keeping the number of miles driven to a minimum. In the example from above, the solution must return
 a route from San Francisco through the following places, in order:
-● Grand Canyon AZ
-● Bemidji MN
-● New York NY
+- Grand Canyon AZ
+- Bemidji MN
+- New York NY
 ..., in that order, finally ending in Miami.
 
 To run this program, follow the directions in the terminal and it will all work fine, but the cities and attractions are case sensitive.
