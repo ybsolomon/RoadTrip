@@ -11,4 +11,4 @@ In the example from above, the solution returns a route from San Francisco throu
 
 in that order, finally ending in Miami.
 
-To run this program, input the cities and attractions as requested by the program. The cities and attractions are *case sensitive*.
+To run this program, input the cities and attractions as requested by the program. The cities and attractions are *case* and *space sensitive*, and any errors made by the user will not be caught, so please enter inputs as accurately as possible.
